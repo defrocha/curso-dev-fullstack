@@ -1,0 +1,59 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: rgb(50, 50, 50);
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 40px
+}
+
+.foto {
+    width: 300px;
+    border: 2px solid rgb(225 178 106);
+    border-radius: 60% 60% 60% 60%;
+    margin: 30px 30px 10px 30px;
+    padding: 2px;
+    box-shadow: 12px 12px 12px #342900;
+}
+
+h1 {
+  margin-bottom: 0; 
+  letter-spacing: -1px; 
+  font-family: 'Cabin', sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-style: italic;
+  color:  #97870d;
+  font-weight: 100;
+  letter-spacing: -1px;
+  font-family: 'Righteous', cursive;
+}
+
+.social-links {
+  text-decoration: none;
+}
+
+.icons-instagram {
+  width: 40px;
+}
+
+.icons-facebook {
+  width: 50px;
+  margin-bottom: -3px
+}
+
+.instagram {
+  margin: 0 15px 0 15px;
+}

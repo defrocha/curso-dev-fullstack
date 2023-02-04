@@ -1,0 +1,38 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: rgb(50, 50, 50);
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.foto {
+    width: 300px;
+    border: 2px solid rgb(225 178 106);
+    border-radius: 60% 0% 60% 0%;
+    margin: 50px 50px 80px 50px;
+    padding: 2px;
+    box-shadow: 12px 12px 12px #342900;
+}
+
+h1 {
+  margin-bottom: 0; 
+  letter-spacing: -1px; 
+  font-family: 'Cabin', sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  margin-top: 0;
+  font-style: italic;
+  color:  #5c5207;
+  font-weight: 100;
+  letter-spacing: -1px;
+  font-family: 'Righteous', cursive;
+}
+
+

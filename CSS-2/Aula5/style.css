@@ -1,0 +1,36 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.laranja {
+    color: #ff3b05;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+.red {
+    color: #ff3b05;
+}
+
+.vermelho {
+    color: red;
+}
+.foto {
+    width: 300px;
+    border: 2px solid rgb(148, 137, 120); /*shorthand é o nome*/
+    border-radius: 60% 0% 60% 0%; /*Usada para deixar a borda da sua imagem redonda, tambem é possivel utilizar 4 valores sendo um para cada borda ex: 50%,30%,20% e 10%*/
+    margin: 50px 50px 80px 50px;
+
+
+    /* A propriedade "border" simplifica para que vc possa usar tres propriedades
+    border-width: 300px; Expessura da borda
+    border-style: double; Tipo de Borda
+    border-color: black; Cor da borda 
+    (a ordem é essa) */
+
+    /* A propriedade mangin é utilizada p/ distanciar o elemento da margem (ex: a imagem)
+    margin-top= Distanciar o elemento do topo
+    margin-bottom= utilizado p/ distanciar da parte de baixo
+    margin-left= msrgem da esquerda
+}

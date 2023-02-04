@@ -1,0 +1,17 @@
+body {
+    background-image: url(background.jpg);/* utilizado para inserir uma imagem no seu "background"*/
+    
+    background-repeat: no-repeat;/* essa propriedade é utilizada para sua imagem não se repitir*/
+    
+    /*background-position: 50% 50%;- Essa Linha é apenas um comentario para definir aonde eu quero que fique a imagem, um valor define quanto ele vai ficar do lado esquerdo e o segundo valor é a distancia do topo */
+
+    background-position: center center;/*essa propriedade é usada para posionar a imagem na sua pagina ex: centro, direita e esquerda.*/
+
+    background-size: cover;/* essa proprieda é utilizada para a imagem ocupar a tela toda*/
+
+    background-attachment: fixed;/* Essa propriedade é utilizada para o conteudo do seu "body" se mova mas sua imagem ficar fixa */
+}
+
+p {
+    color: rgb(44, 41, 41);
+}

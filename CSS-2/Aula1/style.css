@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.laranja {
+    color: rgb(227, 70, 2);
+}
+.foto {
+    width: 250px;
+}
+
+h2 {
+    color: rgb(47, 0, 255);
+}
+
+h3 {
+    color: gold;
+}
+
+h4 {
+    color: rgb(7, 197, 7);
+}
+
+h5 {
+    color: mediumturquoise;
+}
